@@ -1,0 +1,12 @@
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/bin/Debug/net6.0/Superheros.Shared.deps.json
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/bin/Debug/net6.0/Superheros.Shared.dll
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/bin/Debug/net6.0/Superheros.Shared.pdb
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/Superheros.Shared.csproj.AssemblyReference.cache
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/Superheros.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/Superheros.Shared.AssemblyInfoInputs.cache
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/Superheros.Shared.AssemblyInfo.cs
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/Superheros.Shared.csproj.CoreCompileInputs.cache
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/Superheros.Shared.dll
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/refint/Superheros.Shared.dll
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/Superheros.Shared.pdb
+/Volumes/Phoebe/dev/projects/Blazor/SuperHeros/Superheros/Superheros/Shared/obj/Debug/net6.0/ref/Superheros.Shared.dll

@@ -42,6 +42,9 @@ namespace Superheros.Server.Controllers
 
         [HttpGet]
         [Route("{id}")]
+        /* Swagger requires a no frills [HttpGet] declaration like above so you'll 
+         * have to break out the httpget and route declarations to make Swagger work
+         */
         public async Task<ActionResult<List<SuperHero>>> GetSingleHero(int id)
         {
             var hero = heros.FirstOrDefault(h => h.Id == id);
